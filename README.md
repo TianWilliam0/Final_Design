@@ -45,8 +45,4 @@ To install and run the project, ensure you have Python 3.8 or above installed, a
 ```bash
 pip install -r requirements.txt
 
-# Presentation Video
-
-You can download or view the presentation video here:  
-[Download/View Presentation Video](https://github.com/your-username/your-repository/raw/main/Presentation%20file.mp4)
 
