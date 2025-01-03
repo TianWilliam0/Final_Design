@@ -1,5 +1,5 @@
 # Automated Multimodal Literature Review Paper Writing Model
-
+## This code is for communication learning only, if you need reference, please indicate the source.
 ## Overview
 
 This project is designed to construct an automated multimodal large language model for generating literature review papers. The model integrates the reasoning abilities of large language models (such as GPT-3.5) with multimodal data sources, including images, videos, and audio, to create a system that simulates human intelligence. The model tackles several challenges in practical applications, including the difficulty of data acquisition, incomplete evaluation methods, and the current limitation of most writing models to handle only single-modal data.
