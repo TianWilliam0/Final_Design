@@ -38,11 +38,5 @@ Experimental results demonstrate that the average time for generating a complete
 - **Automatic Paper Generation**: Automates the process of generating literature review papers.
 - **Fast Processing Time**: Generates a full review paper in under 15 minutes.
 
-## Installation
-
-To install and run the project, ensure you have Python 3.8 or above installed, along with the following dependencies:
-
-```bash
-pip install -r requirements.txt
 
 
