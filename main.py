@@ -852,7 +852,6 @@ def main():
 
 
 if __name__ == '__main__':
-    # version2024.2.12
     """
     1. 修改了get_structure0的prompt
     2. 加入了json问答
